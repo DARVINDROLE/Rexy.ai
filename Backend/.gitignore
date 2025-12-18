@@ -1,0 +1,24 @@
+# Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Chroma DB
+chroma_db/
+
+# Uploads & Static files
+uploads/
+static/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
