@@ -22,10 +22,12 @@ Whether you need to cram for an exam, visualize complex topics, or listen to you
 
 | Feature | Preview |
 | :--- | :--- |
-| **Interactive Chat & Learning** | ![Chat Interface](images/Screenshot%202025-12-19%20025424.png) |
-| **Quiz & Assessment** | ![Quiz Interface](images/Screenshot%202025-12-19%20025446.png) |
-| **Study Tools** | ![Tools Interface](images/Screenshot%202025-12-19%20025513.png) |
-
+| **Summary Learning** | ![Chat Interface](images/Screenshot%202025-12-19%20025424.png) |
+| **Flipcards** | ![Quiz Interface](images/Screenshot%202025-12-19%20025446.png) |
+| **Quiz** | ![Tools Interface](images/Screenshot%202025-12-19%20025513.png) |
+**Audio Podcast**
+**IMP Pyq**
+**Chat Ask Questions**
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -97,9 +99,7 @@ npm install
 # Run the development server
 npm run dev
 ```
-The application will typically be available at `http://localhost:5173`.
 
-## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for any feature additions or bug fixes.
 
