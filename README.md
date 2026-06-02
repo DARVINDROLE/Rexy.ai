@@ -6,19 +6,19 @@ Whether you need to cram for an exam, visualize complex topics, or listen to you
 
 ![Dashboard Overview](images/Screenshot%202025-12-19%20025405.png)
 
-## 🚀 Key Features
+## Key Features
 
-*   **📚 Document Intelligence:** Upload PDFs, Word documents, or images. Rexy.ai extracts and understands the content to power all its features.
-*   **🤖 AI Tutor Chat:** Chat with your documents! Ask questions and get instant answers based *only* on your uploaded materials, ensuring accuracy and relevance.
-*   **📝 Smart Quizzes:** Automatically generate quizzes from your study material to test your knowledge. Track your performance and identify weak areas.
-*   **📇 Flashcards & Spaced Repetition:** Convert your notes into flashcards instantly. Use the built-in spaced repetition system to maximize retention.
-*   **🎧 Audio Podcasts:** Turn your boring documents into engaging audio podcasts. Listen to summaries and deep dives while you commute or relax.
-*   **🧠 Mind Maps:** Visualize connections between concepts with automatically generated mind maps. Perfect for understanding complex subjects.
-*   **📅 Personalized Timetables:** Get a custom study schedule tailored to your goals and available time.
-*   **📊 Progress Tracking:** Visualize your learning journey with streaks, heatmaps, and detailed progress reports.
-*   **🔍 PYQ Analysis:** Upload Previous Year Questions (PYQs) to identify important topics and generate targeted practice questions.
+*   **Document Intelligence:** Upload PDFs, Word documents, or images. Rexy.ai extracts and understands the content to power all its features.
+*   **AI Tutor Chat:** Chat with your documents! Ask questions and get instant answers based *only* on your uploaded materials, ensuring accuracy and relevance.
+*   **Smart Quizzes:** Automatically generate quizzes from your study material to test your knowledge. Track your performance and identify weak areas.
+*   **Flashcards & Spaced Repetition:** Convert your notes into flashcards instantly. Use the built-in spaced repetition system to maximize retention.
+*   **Audio Podcasts:** Turn your boring documents into engaging audio podcasts. Listen to summaries and deep dives while you commute or relax.
+*   **Mind Maps:** Visualize connections between concepts with automatically generated mind maps. Perfect for understanding complex subjects.
+*   **Personalized Timetables:** Get a custom study schedule tailored to your goals and available time.
+*   **Progress Tracking:** Visualize your learning journey with streaks, heatmaps, and detailed progress reports.
+*   **PYQ Analysis:** Upload Previous Year Questions (PYQs) to identify important topics and generate targeted practice questions.
 
-## 📸 Screenshots
+## Screenshots
 
 | Feature | Preview |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Whether you need to cram for an exam, visualize complex topics, or listen to you
 **Audio Podcast**
 **IMP Pyq**
 **Chat Ask Questions**
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 *   **Framework:** FastAPI (Python)
