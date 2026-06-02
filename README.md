@@ -4,15 +4,6 @@ Rexy.ai is an advanced, AI-powered study companion designed to transform how you
 
 Whether you need to cram for an exam, visualize complex topics, or listen to your notes on the go, Rexy.ai has you covered.
 
-## Project Contributors
-
-| Role | Contributor |
-|--------|-------------|
-| Frontend Development | Laukik Kande |
-| Machine Learning Model Development | Laukik Kande |
-| Backend Development | Yashovardhan Poddar |
-
-
 
 ![Dashboard Overview](images/Screenshot%202025-12-19%20025405.png)
 
@@ -27,6 +18,15 @@ Whether you need to cram for an exam, visualize complex topics, or listen to you
 *   **Personalized Timetables:** Get a custom study schedule tailored to your goals and available time.
 *   **Progress Tracking:** Visualize your learning journey with streaks, heatmaps, and detailed progress reports.
 *   **PYQ Analysis:** Upload Previous Year Questions (PYQs) to identify important topics and generate targeted practice questions.
+
+## Project Contributors
+
+| Role | Contributor |
+|--------|-------------|
+| Frontend Development | Laukik Kande |
+| Machine Learning Model Development | Laukik Kande |
+| Backend Development | Yashovardhan Poddar |
+
 
 ## Screenshots
 
