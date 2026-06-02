@@ -12,6 +12,8 @@ Whether you need to cram for an exam, visualize complex topics, or listen to you
 | Machine Learning Model Development | Laukik Kande |
 | Backend Development | Yashovardhan Poddar |
 
+
+
 ![Dashboard Overview](images/Screenshot%202025-12-19%20025405.png)
 
 ## Key Features
